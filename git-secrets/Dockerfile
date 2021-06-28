@@ -1,4 +1,4 @@
-FROM alpine:3.10.3
+FROM alpine:3.14.0
 
 ENV GitSecretsVersion=1.3.0
 
